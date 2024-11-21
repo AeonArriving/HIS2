@@ -87,7 +87,7 @@
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
             <artifactId>mybatis-spring-boot-starter</artifactId>
-            <version>1.1.1</version>
+            <version>1.2.0</version>
         </dependency>
         <!-- MyBatis End-->
 
@@ -110,7 +110,7 @@
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-commons</artifactId>
-            <version>2.1.8.RELEASE</version>
+            <version>3.2.11</version>
             <scope>compile</scope>
         </dependency>
         <!--pagehelper End-->
@@ -141,7 +141,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-tx</artifactId>
-            <version>5.1.7.RELEASE</version>
+            <version>6.1.14</version>
         </dependency>
 
         <!--swagger2 End-->
